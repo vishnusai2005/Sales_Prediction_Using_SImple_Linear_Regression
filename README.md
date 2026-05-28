@@ -455,6 +455,5 @@ jupyter notebook Sales_prediction.ipynb
 
 **Vydhyam Vishnu Sai**  
 📧 vishnusaivydhyam@gmail.com
-🔗 https://www.linkedin.com/in/vishnusai-vydhyam/ | [GitHub Profile]
-
+🔗 https://www.linkedin.com/in/vishnusai-vydhyam/ 
 
